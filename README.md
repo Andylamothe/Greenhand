@@ -1,4 +1,4 @@
-# 🌱 GreenHand
+#  GreenHand
 
 > Application d'agriculture pensée pour aider les débutants à mieux comprendre, suivre et gérer leurs cultures, avec un chatbot intelligent intégré.
 
@@ -24,35 +24,35 @@ Ce dépôt est le **dépôt parent** du projet et centralise les deux sous-proje
 
 ## Fonctionnalités principales
 
-### 🌾 Accompagnement des débutants
+###  Accompagnement des débutants
 - interface mobile accessible ;
 - conseils pratiques pour l'entretien des cultures ;
 - aide à la compréhension des besoins des plantes.
 
-### 🤖 Chatbot agricole
+###  Chatbot agricole
 - assistant conversationnel intégré dans l'application ;
 - réponses orientées agriculture et jardinage ;
 - recommandations enregistrables côté backend ;
 - génération de réponses via **Google Gemini**.
 
-### ☁️ Données météo et tableaux de bord
+###  Données météo et tableaux de bord
 - affichage des conditions météo ;
 - visualisation de l'humidité, des précipitations, de la température et du vent ;
 - tableaux de bord dédiés à l'analyse des cultures.
 
-### 🌱 Gestion des plantes et de l'inventaire
+###  Gestion des plantes et de l'inventaire
 - ajout, recherche et suppression de plantes ;
 - filtrage par catégories ;
 - consultation de détails sur les plantes ;
 - suivi d'un inventaire agricole personnel.
 
-### 👤 Gestion utilisateur
+###  Gestion utilisateur
 - inscription et connexion ;
 - profil utilisateur ;
 - paramètres de compte ;
 - base d'administration et gestion des accès.
 
-### 📷 Fonctions mobiles natives
+###  Fonctions mobiles natives
 - accès à l'appareil photo ;
 - sélection depuis la galerie ;
 - expérience adaptée à une application mobile Expo / React Native.
