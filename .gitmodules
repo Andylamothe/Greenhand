@@ -1,0 +1,6 @@
+[submodule "GreenHand_frontend"]
+	path = GreenHand_frontend
+	url = https://github.com/Andylamothe/GreenHand_frontend
+[submodule "GreenHand_backend"]
+	path = GreenHand_backend
+	url = https://github.com/Andylamothe/GreenHand_backend
