@@ -8,8 +8,6 @@
 ![Database](https://img.shields.io/badge/database-MongoDB-15803d?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-Gemini%20%7C%20Recommandations-7c3aed?style=for-the-badge)
 
-## Aperçu en images
-
 <img src="https://github.com/user-attachments/assets/96cdc0ea-65fa-4e49-930d-788c3869c402">
 
 
